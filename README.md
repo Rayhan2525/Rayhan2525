@@ -1,9 +1,9 @@
 <!-- ## Hi there 👋 -->
 <H1>Hi, I'm Rayhan Baig</H1>
 <b>Welcome to my Github page. Here you can view my personal webpage and all my projects that I have done so far.</b>
-<H2>My Portfolio Webpage</H2>
+<H1>My Portfolio Webpage</H1>
 - <b>Rayhan Baig - Portfolio</b>
-<H2>Cybersecurity Projects</H2>
+<H1>Cybersecurity Projects</H1>
   - <b><a href="https://github.com/Rayhan2525/SteppingStoneDataColl">Stepping Stone Detection : Data Collection</a></b>
 
 <!--
