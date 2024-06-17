@@ -8,7 +8,11 @@
 <H1>Cybersecurity Projects</H1>
 <div>
   <li><a href="https://github.com/Rayhan2525/SteppingStoneDataColl">Stepping Stone Detection : Data Collection</a></li>
-  <li><a>Tool project : SecretsDump.py</a></li>
+  <!-- <li><a>Tool project : SecretsDump.py</a></li> -->
+</div>
+<div>
+  <h1>CTF Writeups</h1>
+  <li>N0PSCTF - 2024 - Writeups</li>
 </div>
 <!--
 **Rayhan2525/Rayhan2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
