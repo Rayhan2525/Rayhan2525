@@ -12,7 +12,7 @@
 </div>
 <div>
   <h1>CTF Writeups</h1>
-  <li>N0PSCTF - 2024 - Writeups</li>
+  <li><a href="https://github.com/Rayhan2525/N0PSCTF2024">N0PSCTF - 2024 - Writeups</a></li>
 </div>
 <!--
 **Rayhan2525/Rayhan2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
