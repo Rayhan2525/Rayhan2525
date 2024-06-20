@@ -11,7 +11,7 @@
   <!-- <li><a>Tool project : SecretsDump.py</a></li> -->
 </div>
 <div>
-  <h1>CTF Writeups</h1>
+  <h1>Capture The Flag (CTF) Competition Writeups</h1>
   <li><a href="https://github.com/Rayhan2525/N0PSCTF2024">N0PSCTF - 2024 - Writeups</a></li>
 </div>
 <!--
