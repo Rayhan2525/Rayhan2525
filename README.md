@@ -13,7 +13,7 @@
 <div>
   <h1>Capture The Flag (CTF) Competition Writeups</h1>
   <li><a href="https://github.com/Rayhan2525/N0PSCTF2024">N0PSCTF - 2024 - Writeups</a></li>
-  <li><a>MetaCTF - June 2024 Flash CTF - Writeups</a></li>
+  <li><a href="https://github.com/Rayhan2525/MetaCTF-JuneFlash-Writeups">MetaCTF - June 2024 Flash CTF - Writeups</a></li>
 </div>
 <!--
 **Rayhan2525/Rayhan2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
